@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "verus.farm",
+        	"url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150
 	},
 	{
@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RBfbQ9WZBbQ17enkrBoHY99L9xMbCZG2gw.pi4",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
